@@ -4,7 +4,7 @@
 ![Articles](https://img.shields.io/badge/articles-20-green)
 ![Translations](https://img.shields.io/badge/translations-13-orange)
 
-# Harness Engineering 学习指南
+# Harness Engineering 指南
 
 > 一个从概念理解到独立实践的 Harness Engineering 深度学习档案
 
